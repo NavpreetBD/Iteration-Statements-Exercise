@@ -122,8 +122,8 @@ namespace IterationStatements
             //EvenOrOdd(3);
             // PositiveOrNegative(5);
             //CanPersonVote(18);
-            //IsNumberInRange(5);
-             MultiplicationTable(2);
+           // IsNumberInRange();
+           // MultiplicationTable(2);
         }
     }
 }
